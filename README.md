@@ -4,10 +4,16 @@
 
 🔹 Passionate about creating cool web projects & animations.  
 
+
+
  💼 [LinkedIn]((www.linkedin.com/in/chhavi-bhalla-6b7985319)) 
+
+ 
 
 
 ### 🚀 Tech Stack & Skills  
+
+
 
 💻 **Languages & Frameworks:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,9 +22,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
+
+
+
 📊 **Data Science & Libraries:**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
 
 
 🌍 **Tools & Platforms:**  
@@ -29,14 +41,21 @@
 
 
 
+
+
 🌱 Currently Learning & Exploring
 
 
+
 🔹 Machine Learning & AI
+
 🔹 Full Stack Web Development
+
 🔹 Data Science with Python & R
 
+
 ---  
+
 
 
 ### 📈 GitHub Stats  
