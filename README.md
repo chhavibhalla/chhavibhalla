@@ -16,9 +16,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
+📊 **Data Science & Libraries:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 
 🌱 Currently Learning & Exploring
+
+
 🔹 Machine Learning & AI
 🔹 Full Stack Web Development
 🔹 Data Science with Python & R
+
+---  
