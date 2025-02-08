@@ -8,9 +8,8 @@
 
  💼 [LinkedIn]((www.linkedin.com/in/chhavi-bhalla-6b7985319)) 
 
- ![](./A_cute_girl_with_long_hair,_blue_glasses,_and_a_sm.png)
+ ![Cute Girl Coding](https://pics.craiyon.com/2023-10-30/302e194633254bc8a8e05245ba61814d.webp)
 
- ![Cute Girl Coding](./A_cute_girl_with_long_hair,_blue_glasses,_and_a_sm.png)
 
 
  
