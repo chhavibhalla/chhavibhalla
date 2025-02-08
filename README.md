@@ -8,6 +8,8 @@
 
  💼 [LinkedIn]((www.linkedin.com/in/chhavi-bhalla-6b7985319)) 
 
+ ![](./A_cute_girl_with_long_hair,_blue_glasses,_and_a_sm.png)
+
  
 
 
