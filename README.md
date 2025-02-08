@@ -8,7 +8,9 @@
 
  💼 [LinkedIn]((www.linkedin.com/in/chhavi-bhalla-6b7985319)) 
 
- ![Cute Girl Coding](https://pics.craiyon.com/2023-10-30/302e194633254bc8a8e05245ba61814d.webp)
+ <p align="center">
+  <img src="https://pics.craiyon.com/2023-10-30/302e194633254bc8a8e05245ba61814d.webp" alt="Cute Girl Coding" width="250"/>
+</p>
 
 
 
