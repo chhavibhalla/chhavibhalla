@@ -64,7 +64,8 @@
 
 
 ### 📈 GitHub Stats  
-![Chhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavibhalla&show_icons=true&theme=radical)  
+![Chhavi bhalla GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhavibhalla&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavibhalla&layout=compact&theme=radical)](https://github.com/chhavibhalla/github-readme-stats)  
 
