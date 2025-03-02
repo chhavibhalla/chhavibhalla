@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&width=600&lines=Hello%2C+I'm+Chhavi!+%F0%9F%91%8B;AI-ML+Student+%7C+Web+Developer;Building+a+Unique+Calculator+%E2%9C%A8;Always+Learning+New+Tech!)](https://github.com/chhavibhalla)
+
 # 💜 Hey, I'm Chhavi! 🚀
 
 ### 👩‍💻 AI-ML Student | Web Developer | Tech Enthusiast  
