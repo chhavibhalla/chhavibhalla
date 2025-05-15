@@ -87,5 +87,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chhavibhalla&theme=radical)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chhavibhalla&theme=onedark)](https://github.com/chhavibhalla/github-profile-trophy)
+
 
 
