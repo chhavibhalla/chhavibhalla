@@ -38,6 +38,14 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+🤖 **AI & APIs:**  
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Generative AI](https://img.shields.io/badge/GenerativeAI-34A853?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
 
 
 🌍 **Tools & Platforms:**  
