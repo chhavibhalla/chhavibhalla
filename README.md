@@ -50,8 +50,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-Tools used for interactive dashboards, business intelligence, and data storytelling.
-
 ---
 
 ## 🤖 AI & APIs  
@@ -71,7 +69,7 @@ Tools used for interactive dashboards, business intelligence, and data storytell
 
 ## 🎨 Styling & UI Frameworks  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](http)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
