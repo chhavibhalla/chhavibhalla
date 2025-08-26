@@ -93,19 +93,13 @@
 ![Chhavi bhalla GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhavibhalla&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavibhalla&layout=compact&theme=radical)](https://github.com/chhavibhalla/github-readme-stats)  
-
----  
-
-![Profile Views](https://komarev.com/ghpvc/?username=chhavibhalla&color=blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chhavibhalla/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 
 
+## 📈 GitHub Stats & Achievements  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=chhavibhalla&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chhavibhalla&theme=radical)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chhavibhalla&theme=onedark)](https://github.com/chhavibhalla/github-profile-trophy)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chhavibhalla&theme=onedark)](https://github.com/chhavibhalla/github-profile-trophy)
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavibhalla&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavibhalla&show_icons=true&theme=radical)  
