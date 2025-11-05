@@ -4,7 +4,7 @@
 
 ### 👩‍💻 AI-ML  | Web Developer | Tech Enthusiast  
 
-🔹 Passionate about creating cool web projects & animations.  
+🔹 Passionate about creating cool web projects & animations
 
 
 
