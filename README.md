@@ -5,6 +5,10 @@
 ### 👩‍💻 AI-ML  | Web Developer | Tech Enthusiast  
 
 🔹 Passionate about creating cool web projects & animations
+## 🚀 Portfolio
+Check out my personal portfolio here:  
+👉 **https://chhaviportfolio.vercel.app**
+
 
 
 
