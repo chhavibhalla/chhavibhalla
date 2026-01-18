@@ -69,6 +69,8 @@
 ### 🤖 AI & Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Sarvagam](https://img.shields.io/badge/Sarvagam%20API-6A0DAD?style=for-the-badge)
+
 
 ---
 
