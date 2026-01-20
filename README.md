@@ -93,18 +93,12 @@
 ---  
 
 
+## 📊 GitHub Stats & Achievements  
 
-### 📈 GitHub Stats  
-![Chhavi bhalla GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhavibhalla&show_icons=true&theme=radical)
+![Chhavi Bhalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavibhalla&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=chhavibhalla&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavibhalla&layout=compact&theme=radical)
 
-
-## 📈 GitHub Stats & Achievements  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=chhavibhalla&theme=radical)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chhavibhalla&theme=onedark)](https://github.com/chhavibhalla/github-profile-trophy)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavibhalla&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavibhalla&show_icons=true&theme=radical)  
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chhavibhalla&theme=onedark&row=1&column=6)](https://github.com/chhavibhalla)
