@@ -8,7 +8,7 @@
 
 </div>
 
-I build AI-powered and web applications, with a strong foundation in data structures, algorithms, and data analytics. I enjoy turning ideas into clean, functional products — from intelligent apps to interactive dashboards.
+I build AI-powered and web applications, with a strong foundation in data structures, algorithms, and data analytics. I enjoy turning ideas into clean functional products — from intelligent apps to interactive dashboards.
 
 <br/>
 
